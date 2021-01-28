@@ -10,6 +10,6 @@ public class Jedi9 {
 		BigInteger result = a.nextProbablePrime();
 		System.out.println("El primer primo probable mayor es: " + result);
 		BigInteger result2 = result.nextProbablePrime();
-		System.out.println("El siguiente primo probable mayor es: " + result2);
+		System.out.println("Esto es un cambio de la rama pruebas: " + result2);
 	}
 }
